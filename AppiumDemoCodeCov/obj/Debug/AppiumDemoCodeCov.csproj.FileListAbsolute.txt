@@ -1,0 +1,78 @@
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\chromedriver.exe
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\geckodriver.exe
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\IEDriverServer.exe
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Unicron Selenium Demo.dll.config
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Unicron Selenium Demo.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Unicron Selenium Demo.pdb
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\appium-dotnet-driver.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Castle.Core.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\EntityFramework.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Newtonsoft.Json.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\nunit.framework.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\TestStack.White.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\UnicornLibrary.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\WebDriver.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\WebDriver.Support.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Sinks.RollingFile.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Settings.AppSettings.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Sinks.Async.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\appium-dotnet-driver.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Castle.Core.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\EntityFramework.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Newtonsoft.Json.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\nunit.framework.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\TestStack.White.pdb
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\TestStack.White.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\UnicornLibrary.pdb
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\UnicornLibrary.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\WebDriver.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\WebDriver.Support.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Sinks.RollingFile.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\obj\Debug\Unicron Selenium Demo.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\obj\Debug\Unicron Selenium Demo.pdb
+C:\Users\105798\Documents\Visual Studio 2013\Projects\AppiumDemoCodeCov\AppiumDemoCodeCov\obj\Debug\AppiumDemoCodeCov.csprojResolveAssemblyReference.cache
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\chromedriver.exe
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\geckodriver.exe
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\IEDriverServer.exe
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Unicron Selenium Demo.dll.config
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Unicron Selenium Demo.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Unicron Selenium Demo.pdb
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\appium-dotnet-driver.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Castle.Core.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\EntityFramework.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\EntityFramework.SqlServer.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Newtonsoft.Json.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\nunit.framework.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\TestStack.White.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\UnicornLibrary.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\WebDriver.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\WebDriver.Support.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Sinks.RollingFile.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Settings.AppSettings.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Sinks.Async.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Sinks.File.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\appium-dotnet-driver.xml
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Castle.Core.xml
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\EntityFramework.xml
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\EntityFramework.SqlServer.xml
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Newtonsoft.Json.xml
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\nunit.framework.xml
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\TestStack.White.pdb
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\TestStack.White.xml
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\UnicornLibrary.pdb
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\UnicornLibrary.xml
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\WebDriver.xml
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\WebDriver.Support.xml
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.xml
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Sinks.RollingFile.xml
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Sinks.File.xml
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\obj\Debug\AppiumDemoCodeCov.csprojResolveAssemblyReference.cache
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\obj\Debug\Unicron Selenium Demo.dll
+C:\AppiumDemoCodeCov\AppiumDemoCodeCov\obj\Debug\Unicron Selenium Demo.pdb
