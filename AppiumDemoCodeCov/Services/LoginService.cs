@@ -11,6 +11,9 @@ using UnicornLibrary.Unicorn.IServices.IElementServices.ISeleniumService;
 using UnicornLibrary.Selenium.BaseClasses;
 using System.Threading;
 using OpenQA.Selenium.Appium;
+using OpenQA.Selenium.Remote;
+using System.Configuration;
+using System.IO;
 
 namespace AppiumDemoCodeCov.Services
 {
@@ -30,6 +33,18 @@ namespace AppiumDemoCodeCov.Services
             driver.FindElementById("com.writer.aspiring.unittestingdemo:id/text_signin").Click();
             Thread.Sleep(5000);
         }
+             public void CapabilitiesCov(DesiredCapabilities capabilities)
+             {
+
+                 capabilities.SetCapability("deviceName", ConfigurationManager.AppSettings["deviceName"]);
+                 capabilities.SetCapability(CapabilityType.Version, ConfigurationManager.AppSettings["platformVersion"]);
+                 capabilities.SetCapability(CapabilityType.BrowserName, ConfigurationManager.AppSettings["BrowserName"]);
+                 capabilities.SetCapability(CapabilityType.Platform, ConfigurationManager.AppSettings["platformName"]);
+                 capabilities.SetCapability("appPackage", ConfigurationManager.AppSettings["appPackage"]);
+                 capabilities.SetCapability("appActivity", ConfigurationManager.AppSettings["appActivity"]);
+                 capabilities.SetCapability("app", "E:\\apk_files\\app-debug.apk");
+
+             }
      }
 
     }

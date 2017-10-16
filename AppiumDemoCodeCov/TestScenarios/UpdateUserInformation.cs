@@ -26,6 +26,8 @@ namespace AppiumDemoCodeCov.TestScenarios
         {
 
             _loginService.LoginCov(AppiumSetup.driver);
+            AppiumSetup.driver.CloseApp();
+            AppiumSetup.driver.Close();
         }
 
         override public List<Tuple<bool, string, int>> Validate(long testScenarioId, long testCaseId, string testCaseName)

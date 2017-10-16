@@ -11,7 +11,14 @@ using AppiumDemoCodeCov.Utilities;
 using UnicornLibrary.Selenium.Services;
 using UnicornLibrary.Unicorn.Factory;
 using System.Threading;
-
+using OpenQA.Selenium.Remote;
+using System.Configuration;
+using System;
+using System.IO;
+using AppiumDemoCodeCov.Services;
+using UnicornLibrary.Appium.AppiumModels;
+using OpenQA.Selenium.Appium.Android;
+using AppiumDemoCodeCov.TestScenarios;
 namespace AppiumDemoCodeCov
 {
     [TestFixture]
@@ -37,6 +44,10 @@ namespace AppiumDemoCodeCov
         [TestCaseSource("GetTestCases")]
         public void ExecuteTestCases(Tuple<String, long, long> testCase)
         {
+            //LoginService _loginService = new LoginService();
+            //DesiredCapabilities capabilities = new DesiredCapabilities();
+            //AndroidDriver<AndroidElement> driver;
+
             try
             {
                 System.Diagnostics.Process process = new System.Diagnostics.Process();
@@ -47,6 +58,10 @@ namespace AppiumDemoCodeCov
                 process.StartInfo = startInfo;
                 process.Start();
                 Thread.Sleep(10000);
+                //_loginService.CapabilitiesCov(capabilities);
+                //driver = new AndroidDriver<AndroidElement>(new Uri(ConfigurationManager.AppSettings["appiumurl"]), capabilities);
+                //Thread.Sleep(20000);
+                
                 testCaseService.AppiumTestInitialize();
                 Console.WriteLine(testCase.Item1 + "," + testCase.Item2 + "," + testCase.Item3);
                 testCaseService.ExecuteTestCase(testCase.Item1, testCase.Item2, testCase.Item3);
