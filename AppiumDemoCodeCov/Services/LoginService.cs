@@ -31,6 +31,14 @@ namespace AppiumDemoCodeCov.Services
             driver.FindElementById("com.writer.aspiring.unittestingdemo:id/UserName").SendKeys("Olivia");
             driver.FindElementById("com.writer.aspiring.unittestingdemo:id/password").SendKeys("Dunham");
             driver.FindElementById("com.writer.aspiring.unittestingdemo:id/text_signin").Click();
+            Thread.Sleep(2000);
+            driver.FindElementById("com.writer.aspiring.unittestingdemo:id/UserName").SendKeys("Olivia");
+            driver.FindElementById("com.writer.aspiring.unittestingdemo:id/password").SendKeys("Dunhamm");
+            driver.FindElementById("com.writer.aspiring.unittestingdemo:id/text_signin").Click();
+            Thread.Sleep(2000);
+            driver.FindElementById("com.writer.aspiring.unittestingdemo:id/UserName").SendKeys("Oliviaa");
+            driver.FindElementById("com.writer.aspiring.unittestingdemo:id/password").SendKeys("Dunhamm");
+            driver.FindElementById("com.writer.aspiring.unittestingdemo:id/text_signin").Click();
             Thread.Sleep(5000);
         }
              public void CapabilitiesCov(DesiredCapabilities capabilities)
