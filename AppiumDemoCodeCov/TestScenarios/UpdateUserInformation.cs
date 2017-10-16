@@ -24,7 +24,7 @@ namespace AppiumDemoCodeCov.TestScenarios
 
         override public void Execute(long testScenarioId, long testCaseId, string testCaseName)
         {
-
+           
             _loginService.LoginCov(AppiumSetup.driver);
             AppiumSetup.driver.CloseApp();
             AppiumSetup.driver.Close();

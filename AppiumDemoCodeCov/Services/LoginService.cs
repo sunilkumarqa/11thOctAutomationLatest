@@ -36,22 +36,22 @@ namespace AppiumDemoCodeCov.Services
             driver.FindElementById("com.writer.aspiring.unittestingdemo:id/password").SendKeys("Dunhamm");
             driver.FindElementById("com.writer.aspiring.unittestingdemo:id/text_signin").Click();
             Thread.Sleep(2000);
-            driver.FindElementById("com.writer.aspiring.unittestingdemo:id/UserName").SendKeys("Oliviaa");
-            driver.FindElementById("com.writer.aspiring.unittestingdemo:id/password").SendKeys("Dunhamm");
+            driver.FindElementById("com.writer.aspiring.unittestingdemo:id/UserName").SendKeys("rtttetww");
+            driver.FindElementById("com.writer.aspiring.unittestingdemo:id/password").SendKeys("ewtewtewte");
             driver.FindElementById("com.writer.aspiring.unittestingdemo:id/text_signin").Click();
             Thread.Sleep(5000);
         }
              public void CapabilitiesCov(DesiredCapabilities capabilities)
              {
-
+               
                  capabilities.SetCapability("deviceName", ConfigurationManager.AppSettings["deviceName"]);
                  capabilities.SetCapability(CapabilityType.Version, ConfigurationManager.AppSettings["platformVersion"]);
                  capabilities.SetCapability(CapabilityType.BrowserName, ConfigurationManager.AppSettings["BrowserName"]);
                  capabilities.SetCapability(CapabilityType.Platform, ConfigurationManager.AppSettings["platformName"]);
                  capabilities.SetCapability("appPackage", ConfigurationManager.AppSettings["appPackage"]);
-                 capabilities.SetCapability("appActivity", ConfigurationManager.AppSettings["appActivity"]);
+                 capabilities.SetCapability("appActivity", ConfigurationManager.AppSettings["appPackage"]);
                  capabilities.SetCapability("app", "E:\\apk_files\\app-debug.apk");
-
+                 
              }
      }
 

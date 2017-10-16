@@ -73,6 +73,5 @@ C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\WebDriver.Support.xml
 C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.xml
 C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Sinks.RollingFile.xml
 C:\AppiumDemoCodeCov\AppiumDemoCodeCov\bin\Debug\Serilog.Sinks.File.xml
-C:\AppiumDemoCodeCov\AppiumDemoCodeCov\obj\Debug\AppiumDemoCodeCov.csprojResolveAssemblyReference.cache
 C:\AppiumDemoCodeCov\AppiumDemoCodeCov\obj\Debug\Unicron Selenium Demo.dll
 C:\AppiumDemoCodeCov\AppiumDemoCodeCov\obj\Debug\Unicron Selenium Demo.pdb
